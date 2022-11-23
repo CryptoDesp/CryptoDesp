@@ -7,5 +7,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+You can find me:
 
-
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/D_e_s_p)
+[![Gmail](https://img.shields.io/badge/-CryptoDesp@gmail.com-F9DB60?style=flat-square&logo=Google&logoColor=FF3333)](mailto:CryptoDesp@gmail.com) 
